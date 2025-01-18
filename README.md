@@ -1,2 +1,2 @@
 # Web-Scraping-Challange
-While completing this project, I have used the internate, and different orther resources.
+While completing this project, I have used the internet, and different orther resources.
